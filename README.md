@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
   <h3>Hi there 👋, I'm Sanchezabad034</h3>
-  <h3>I am a software engineering student from Mexico, passionate about web programming and native and hybrid mobile programming.</h3>
+  <h3>I am a software engineering from Mexico, passionate about web programming and native and hybrid mobile programming.</h3>
 </div>
 <hr>
 
